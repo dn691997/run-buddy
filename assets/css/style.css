@@ -50,6 +50,10 @@
     width: 100%;
     padding: 40px 35px;
   }
+
+  footer:hover {
+    color: red;
+  }
   
   footer h2 {
     display: inline;
